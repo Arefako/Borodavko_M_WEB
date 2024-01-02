@@ -10,14 +10,14 @@ header {
 
 nav a {
   text-decoration: none;
-  color: #ffffff;
+  color: #000000;
   font-size: 16px;
   margin-right: 10px;
 }
 
 nav a {
   text-decoration: none;
-  color: #ffffff;
+  color: #000000;
   font-size: 16px;
 }
 
@@ -41,5 +41,5 @@ p {
 footer {
   background-color: #c0c0c0;
   padding: 12px;
-  color: #ffffff;
+  color: #000000;
 }
