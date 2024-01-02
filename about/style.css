@@ -23,6 +23,9 @@ main {
 section {
   margin-bottom: 20px;
 }
+h1, h2 {
+font-size: 18px;
+}
 footer {
   background-color: #3ab1c8;
   padding: 12px;
