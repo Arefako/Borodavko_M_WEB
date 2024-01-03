@@ -7,7 +7,7 @@ form {
     width: 400px;
     margin: 50px auto;
     padding: 30px;
-    border-radius: 15px;
+    border-radius: 25px;
 }
 input[type="text"],
 input[type="email"],
@@ -17,25 +17,22 @@ select {
     width: calc(100% - 20px);
     padding: 10px;
     margin: 10px 0;
-    border: 1px solid #ccc;
-    border-radius: 5px;
+    border: 1px solid #e3e3e3;
+    border-radius: 10px;
 }
-
 input[type="submit"] {
     width: calc(100% - 20px);
     padding: 10px;
     margin: 10px 0;
     border: none;
-    border-radius: 5px;
-    background-color: #4CAF50;
+    border-radius: 10px;
+    background-color: #cbf078;
     color: #ffffff;
 }
-
 input[type="submit"]:hover {
-    background-color: #45a049;
+    background-color: #acdcee;
 }
-
 label {
-    margin-bottom: 5px;
+    margin-bottom: 4px;
     display: block;
 }
